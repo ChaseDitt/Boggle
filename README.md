@@ -1,2 +1,2 @@
 # Boggle
-A project that is a recreation of the game boggle
+This is a Python project that uses object oriented programing and array analyisis to recreate the game boggle.
